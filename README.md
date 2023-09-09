@@ -44,6 +44,6 @@ horoscope-react (folder)
 https://react-europe.netlify.app/
 ### At the end of the project, following topics are to be covered;
 - HTML
-- CSS
+- SCSS
 - JS
 - ReactJS

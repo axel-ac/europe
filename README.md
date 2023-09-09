@@ -41,7 +41,7 @@ horoscope-react (folder)
 ## Project-gif
 ![europe](https://github.com/axel-ac/europe/assets/102467587/3657bfc7-a1eb-4e17-be16-3695c5cc8c80)
 ## Project-link
-https://horoscope-scss-react.vercel.app/
+https://react-europe.netlify.app/
 ### At the end of the project, following topics are to be covered;
 - HTML
 - CSS

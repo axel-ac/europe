@@ -9,9 +9,9 @@ const Card = (data) => {
         <div>
             <img src={data.image} alt="image" />
         </div>
-        <div className="card-over">
+        {/* <div className="card-over">
             <p>{data.desc}</p>
-        </div>
+        </div> */}
     </div>
   )
 }

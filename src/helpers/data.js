@@ -39,55 +39,55 @@ export const data = [
     title: "Poland",
     desc: "",
     image:
-      "",
+      "https://cdn.pixabay.com/photo/2015/08/16/01/04/poland-890431_640.jpg",
   },
   {
     id: 7,
     title: "Belgium",
     desc: "",
     image:
-      "",
+      "https://cdn.pixabay.com/photo/2019/11/29/14/18/mirroring-4661419_640.jpg",
   },
   {
     id: 8,
     title: "Sweden",
     desc: "",
     image:
-      "",
+      "https://cdn.pixabay.com/photo/2016/11/14/19/20/stockholm-1824368_640.jpg",
   },
   {
     id: 9,
     title: "Greece",
     desc: "",
     image:
-      "",
+      "https://cdn.pixabay.com/photo/2017/04/03/11/06/greece-2197996_640.jpg",
   },
   {
     id: 10,
     title: "Austria",
     desc: "",
     image:
-      "",
+      "https://cdn.pixabay.com/photo/2018/08/16/08/39/hallstatt-3609863_1280.jpg",
   },
   {
     id: 11,
     title: "Switzerland",
     desc: "",
     image:
-      "",
+      "https://cdn.pixabay.com/photo/2017/12/22/11/09/schilthorn-3033448_640.jpg",
   },
   {
     id: 12,
     title: "Finland",
     desc: "",
     image:
-      "",
+      "https://cdn.pixabay.com/photo/2017/11/18/09/58/aurora-borealis-2959663_640.jpg",
   },
   {
     id: 13,
     title: "Norway",
     desc: "",
     image:
-      "",
+      "https://cdn.pixabay.com/photo/2020/02/07/16/20/lofoten-4827611_640.jpg",
   },
 ];
